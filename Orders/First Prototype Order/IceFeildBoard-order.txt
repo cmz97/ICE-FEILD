@@ -1,0 +1,52 @@
+Order list for /Users/ChengMing/Documents/eagle/IceField/IceFeildBoard.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+1	4u7	EIA3216-KIT	unknown					
+5	100n	0603-CAP	unknown					
+2	2u2	0603-CAP	unknown					
+2	22uF	0805	unknown					
+4	0.1uF	0603	unknown					
+2	22p	0603-CAP	unknown					
+1	220pF	C0603	unknown					
+1	22uF	C0603	unknown					
+1	100nF	C0603	unknown					
+1	10uF	0603	unknown					
+1	BLUE	LED-0603	unknown					
+1	3A/40V/500mV	SMA-DIODE	unknown					
+2	250mA/100V	SOD-323	unknown					
+1	4013D	SO14	unknown					
+1	3-PIN SMD	JST-3-SMD	unknown					
+1	JUMPER-SMT_3_NO_SILK	SMT-JUMPER_3_NO_SILK	unknown					
+1	10uH	INDUCTOR_4.7UH	unknown					
+2		LED-0603	unknown					
+2	WS2812B	WS2812B	unknown					
+1	FZT788B	SOT230P700X180-4N	unknown					
+1	5.8A/30V/35mΩ	SOT23-3	unknown					
+2	22R	0603-RES	unknown					
+4	1k	0603	unknown					
+2	10K	0603-RES	unknown					
+1	0.22	0805	unknown					
+1	2k	0603	unknown					
+1	330	0603	unknown					
+1	200k	0603	unknown					
+2	100k	0603	unknown					
+1	39k	0603	unknown					
+2	68k	R0603	unknown					
+1	56k	R0603	unknown					
+1	2.49k	0603	unknown					
+1	470R	0603-RES	unknown					
+1	10k	0603	unknown					
+1	4.7k	0603	unknown					
+1	220k	0603	unknown					
+1	200	0603	unknown					
+1	!RST	SWITCH-TACT-B3U-1100P-B	unknown					
+1	BOOT	SWITCH-TACT-B3U-1100P-B	unknown					
+1	RIGHT_ANGLE_TACTILE_SWITCH	RIGHT_ANGLE_TACTILE_SWITCH	unknown					
+1	EBYTE_E31_433MHZ	EBYTE_E31_433MHZ	unknown					
+1	STM32F405RGT	LQFP64	unknown					
+1	BQ2057WSN	SOIC127P600X175-8N	unknown					
+1	HM-10	HM-10	unknown					
+1	MP1584EN	SOIC9P127_490X600X170L84X42T330X241N	unknown					
+1	USB-MICROB-SMD	USB-MICROB-SMD	unknown					
+1	8MHz	CRYSTAL-SMD-5X3.2-4PAD	unknown					

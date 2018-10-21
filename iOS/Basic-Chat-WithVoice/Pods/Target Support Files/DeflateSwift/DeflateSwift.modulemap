@@ -1,0 +1,6 @@
+framework module DeflateSwift {
+  umbrella header "DeflateSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

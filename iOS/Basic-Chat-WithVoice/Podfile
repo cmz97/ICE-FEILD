@@ -1,0 +1,4 @@
+target “Basic Chat” do
+    use_frameworks!
+    pod 'DeflateSwift', '~> 0.0'
+end
